@@ -1,4 +1,4 @@
-# [「人工知能は名刺をどこまで解読できるのか？！」](https://deepanalytics.jp/compe/26) ベンチマークコード
+# [「人工知能は名刺をどこまで解読できるのか？！」](http://jp.corp-sansan.com/lp/data-sientist-c.html) ベンチマークコード
 
 ## Dependencies
 * numpy
@@ -10,7 +10,7 @@
 ## 実行方法
 
 ### 前準備
-[コンペページからデータをダウンロードして](https://deepanalytics.jp/compe/26/download)
+[コンペページからデータをダウンロード](https://deepanalytics.jp/compe/26/download)して
 `trainer.py` と同じディレクトリに解凍・配置してください。
 訓練用画像データは解凍時ディレクトリ3個に分割されていますが、1個のディレクトリにまとめてください。
 `trainer.py`の19〜22行で読み込むcsvファイルと画像ディレクトリを指定しています。環境が異なる場合は変更してください。

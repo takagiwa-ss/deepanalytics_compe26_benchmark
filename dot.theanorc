@@ -1,0 +1,22 @@
+# ~/.theanorcのサンプル
+
+[global]
+device = gpu
+
+floatX = float32
+mode = FAST_RUN
+
+[nvcc]
+fastmath = True
+
+## cuDNNを使う場合コメントアウトを外す
+# [dnn]
+# enabled = True
+# 
+# [dnn.conv]
+# algo_fwd = time_on_shape_change
+# algo_bwd_filter = time_on_shape_change
+# algo_bwd_data = time_on_shape_change
+# 
+# [lib]
+# cnmem = .1

@@ -1,7 +1,7 @@
 # [「人工知能は名刺をどこまで解読できるのか？！」](http://jp.corp-sansan.com/lp/data-sientist-c.html) ベンチマークコード
 
 ## 解説資料
-2016/08/26(金開催[データサイエンティスト実践セミナー](https://eventdots.jp/event/596780)で発表した資料は
+2016/08/26(金)開催[データサイエンティスト実践セミナー](https://eventdots.jp/event/596780)で発表した資料は
 [`2016-08-26_dots_takagiwa.pdf`](2016-08-26_dots_takagiwa.pdf)
 
 ## Dependencies
